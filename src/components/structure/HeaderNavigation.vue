@@ -91,7 +91,7 @@ onBeforeUnmount(() => {
     <div class="items-center justify-between px-4 md:flex hidden">
       <div id="logo">
         <router-link to="/"
-          ><img src="../../assets/images/logo (1).png" alt="" class="w-[115px]"
+          ><img src="../../assets/images/logo.png" alt="" class="w-[115px]"
         /></router-link>
       </div>
       <div id="links" class="flex items-center gap-3">
@@ -147,7 +147,7 @@ onBeforeUnmount(() => {
     <div class="flex items-center justify-between px-4 md:hidden">
       <div id="logo">
         <router-link to="/"
-          ><img src="../../assets/images/logo (1).png" alt="" class="w-[100px]"
+          ><img src="../../assets/images/logo.png" alt="" class="w-[100px]"
         /></router-link>
       </div>
 
