@@ -27,7 +27,7 @@ let openSupport = ref(false)
         <div class="flex md:flex-row flex-col md:items-center justify-between mt-4 mb-10">
           <div id="about" class="mb-8">
             <img
-              src="../../assets//images/logo (1).png"
+              src="https://kemet.agartha.academy/static/images/logo.png"
               class="w-[250px] mb-3 ml-10 md:ml-0"
               alt=""
             />
